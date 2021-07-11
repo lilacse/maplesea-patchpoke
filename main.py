@@ -4,9 +4,9 @@ import time
 import plyer
 
 # parameters
-from_patch = 199
-to_patch = 200
-url = "https://download-maple.playpark.net/manual/" \
+from_patch = 204
+to_patch = 205
+url = "http://download-maple.playpark.net/manual/" \
   + "MaplePatch" + str(from_patch) + "to" + str(to_patch) + ".exe"
 min_wait = 300
 max_wait = 600
