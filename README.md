@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is no longer maintained. I no longer play the game, and PlayPark occasionally uses an alternative method to distribute their patches when the files get too big, rendering the script not as useful as before, if it still works at all today. The contents of this repository are only kept for informative purposes. 
+
 # maplesea-patchpoke
 
 Simple Python script to periodically check if the MapleSEA manual patch you need is available on PlayPark servers. Useful during patch day. Especially useful if you want to download the latest patch as soon as possible but you are busy and need to do something else instead of refreshing the link in your browser every minute (and have no friends available to do the work for you as well). 
